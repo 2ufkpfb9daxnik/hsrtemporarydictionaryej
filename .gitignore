@@ -1,5 +1,6 @@
 /.venv
 /test.py
 /work
-/作業
 /_pycache_
+/build
+/main.spec
